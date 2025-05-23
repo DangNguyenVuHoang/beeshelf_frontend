@@ -63,5 +63,5 @@ npm start
 
 ## File SRS Project:
 https://docs.google.com/document/d/17I8A4-b9AJEyB7S5gIcNIM49crC2IKJu/edit?usp=sharing&ouid=107848195445699432549&rtpof=true&sd=true
-## 📞 Contact mail: 
+## 📞 Contact Mail: 
 dangnguyenvuhoang8384@gmail.com
