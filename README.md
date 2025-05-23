@@ -27,6 +27,8 @@ The project was developed to optimize distribution processes and quickly expand 
 ### Login Page
 <img width="597" alt="Ảnh màn hình 2025-05-23 lúc 22 00 48" src="https://github.com/user-attachments/assets/5235d092-9a4e-4ed5-bb37-a8a0142a9284" />
 
+### Extending Inventory
+<img width="589" alt="Ảnh màn hình 2025-05-23 lúc 22 04 32" src="https://github.com/user-attachments/assets/72626af1-ba8f-4cac-b98c-7f974d1a6a17" />
 
 ### Order Management Page
 <img width="600" alt="Ảnh màn hình 2025-05-23 lúc 21 59 38" src="https://github.com/user-attachments/assets/0a9553c5-5c15-4f50-94cd-f9a0a6e15fe7" />
@@ -34,11 +36,8 @@ The project was developed to optimize distribution processes and quickly expand 
 ### Inventory Management
 <img width="610" alt="Ảnh màn hình 2025-05-23 lúc 22 02 01" src="https://github.com/user-attachments/assets/214862ae-6f57-4a2a-8d49-72d756450b66" />
 
-### Inventory Management
-<img width="610" alt="Ảnh màn hình 2025-05-23 lúc 22 02 01" src="https://github.com/user-attachments/assets/214862ae-6f57-4a2a-8d49-72d756450b66" />
-
-### Extending Inventory
-<img width="589" alt="Ảnh màn hình 2025-05-23 lúc 22 04 32" src="https://github.com/user-attachments/assets/72626af1-ba8f-4cac-b98c-7f974d1a6a17" />
+### Update Request
+<img width="600" alt="Ảnh màn hình 2025-05-23 lúc 22 10 13" src="https://github.com/user-attachments/assets/cf84e1fb-c5a6-49b9-9ce2-77a0d66d2aea" />
 
 
 ## 🛠 Technology Stack
