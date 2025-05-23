@@ -1,0 +1,74 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+@media (max-width: 1497px) {
+html{
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+}
+}
+@media (max-width:500px){
+html{
+  font-size: 7px;
+}
+}
+@font-face {  
+  font-family: lexend;
+  src: url(./assets/font/Lexend-VariableFont_wght.ttf);
+
+}
+body {
+  margin: 0;
+  font-family: lexend, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  
+}
+input,
+input:focus {
+  cursor: text !important;
+}
+
+a {
+  cursor: pointer !important;
+  text-decoration: underline;
+}
+
+button {
+  cursor: pointer !important;
+}
+
+button:disabled {
+  cursor: not-allowed !important;
+}
+
+
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+
